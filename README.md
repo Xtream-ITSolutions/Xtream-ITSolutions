@@ -59,19 +59,19 @@ We utilize a variety of programming languages and frameworks to deliver high-qua
 
 ![VS Code](https://cdn.xtream-itsolutions.com/github/vscode.svg)
   - A highly customizable open-source code editor developed by Microsoft that assists developers in writing, debugging, and deploying code.
-  - 
+    
 ![IntelliJ IDEA](https://cdn.xtream-itsolutions.com/github/intellijidea.svg)
   - An integrated development environment (IDE) by JetBrains that specializes in Java development and offers a wide range of plugins for other languages and technologies.
-  - 
+    
 ![Git](https://cdn.xtream-itsolutions.com/github/git.svg)
   - A distributed version control system that allows developers to track, manage, and share changes in source code.
-  - 
+    
 ![GitHub](https://cdn.xtream-itsolutions.com/github/github.svg)
   - A web platform for Git repository version control, facilitating developer collaboration and project management.
-  - 
+    
 ![Linux](https://cdn.xtream-itsolutions.com/github/linux.svg)
   - An open-source operating system kernel serving as the foundation for many Linux distributions and used on a variety of systems.
-  - 
+    
 ![Windows](https://cdn.xtream-itsolutions.com/github/windows.svg)
   - An operating system by Microsoft available in various versions for desktop and server applications.
 
