@@ -1,4 +1,4 @@
-# Hey there, We Are Xtream-ITSolutions Ltd. 👋
+# Hey there, We Are Xtream-ITSolutions UG (haftungsbeschränkt) 👋
 
 ## About the Company
 
