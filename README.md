@@ -6,86 +6,41 @@ Xtream-ITSolutions has been a hosting company since 2019. It all started in 2014
 
 ---
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-
-<div style="width: 48%;">
-
 ## 🔧 Programming Languages and Frameworks
 
 We utilize a variety of programming languages and frameworks to deliver high-quality solutions to our clients:
 
 ### ⚙️ Backend Development
 
-🟩 **Java**  
-- A versatile and widely-used language known for its platform independence and performance.
-
-🟦 **Node.js**  
-- Allows us to build scalable and efficient network applications, especially server-side applications.
-
-🟥 **C/C++**  
-- Provides low-level control and is crucial for performance-critical applications.
+| 🟩 **Java** | 🟦 **Node.js** | 🟥 **C/C++** |
+| --- | --- | --- |
+| A versatile and widely-used language known for its platform independence and performance. | Allows us to build scalable and efficient network applications, especially server-side applications. | Provides low-level control and is crucial for performance-critical applications. |
 
 ### ⚙️ Frontend Development
 
-⚛️ **React**  
-- A popular JavaScript library for building user interfaces.
-
-🌐 **Vue.js**  
-- Another JavaScript framework known for its simplicity and flexibility.
-
-📄 **HTML & CSS**  
-- Fundamental for web development, ensuring elegant and responsive designs.
+| ⚛️ **React** | 🌐 **Vue.js** | 📄 **HTML & CSS** |
+| --- | --- | --- |
+| A popular JavaScript library for building user interfaces. | Another JavaScript framework known for its simplicity and flexibility. | Fundamental for web development, ensuring elegant and responsive designs. |
 
 ### ⚙️ Database Management
 
-🗄️ **MongoDB**  
-- Our choice for NoSQL database solutions, providing scalability and flexibility.
-
-💾 **MySQL**  
-- A reliable relational database system that powers many of our applications.
+| 🗄️ **MongoDB** | 💾 **MySQL** |
+| --- | --- |
+| Our choice for NoSQL database solutions, providing scalability and flexibility. | A reliable relational database system that powers many of our applications. |
 
 ### ⚙️ Additional Tools and Frameworks
 
-🖋️ **TypeScript**  
-- Enhances JavaScript by adding static types, making our code more maintainable.
+| 🖋️ **TypeScript** | 🔲 **Lua** | 🎮 **Discord.js** | 🛠️ **Express.js** | 🔗 **Mongoose** |
+| --- | --- | --- | --- | --- |
+| Enhances JavaScript by adding static types, making our code more maintainable. | Lightweight and embedded in many applications, offering extensibility. | Helps us build feature-rich Discord bots. | Simplifies building robust web applications with Node.js. | An elegant MongoDB object modeling tool. |
 
-🔲 **Lua**  
-- Lightweight and embedded in many applications, offering extensibility.
+---
 
-🎮 **Discord.js**  
-- Helps us build feature-rich Discord bots.
+## ⚙️ DevOps & Tools
 
-🛠️ **Express.js**  
-- Simplifies building robust web applications with Node.js.
-
-🔗 **Mongoose**  
-- An elegant MongoDB object modeling tool.
-
-</div>
-
-<div style="width: 48%;">
-
-### ⚙️ DevOps & Tools
-
-💻 **GitHub**  
-- A web platform for Git repository version control, facilitating developer collaboration.
-
-🐧 **Linux**  
-- An open-source operating system kernel used for various distributions.
-
-🖥️ **Windows**  
-- An operating system by Microsoft available for both desktop and server applications.
-
-### 📊 Other Technologies
-
-🌐 **Docker**  
-- Containerization platform for deploying applications in isolated environments.
-
-🔌 **Kubernetes**  
-- Orchestrates containers, ensuring scaling and automated deployment.
-
-📈 **Grafana**  
-- Data visualization and monitoring tool.
+| 💻 **GitHub** | 🐧 **Linux** | 🖥️ **Windows** |
+| --- | --- | --- |
+| A web platform for Git repository version control, facilitating developer collaboration. | An open-source operating system kernel used for various distributions. | An operating system by Microsoft available for both desktop and server applications. |
 
 ---
 
@@ -107,10 +62,6 @@ Feel free to reach out to us for inquiries, support, or collaboration opportunit
 - **GitHub:** [Xtream-ITSolutions GitHub](https://github.com/xtream-itsolutions)  
 - **Email:** [support@xtream-itsolutions.com](mailto:support@xtream-itsolutions.com)  
 - **Discord:** [Join our community on Discord](https://discord.gg/kRSyAybbby)
-
-</div>
-
-</div>
 
 ---
 
