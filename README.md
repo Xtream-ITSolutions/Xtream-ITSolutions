@@ -12,61 +12,61 @@ We utilize a variety of programming languages and frameworks to deliver high-qua
 
 ### ⚙️ Backend Development
 
-<i class="fab fa-java"></i>  
-- **Java**: A versatile and widely-used language known for its platform independence and performance.
+🟩 **Java**  
+- A versatile and widely-used language known for its platform independence and performance.
 
-<i class="fab fa-node-js"></i>  
-- **Node.js**: Allows us to build scalable and efficient network applications, especially server-side applications.
+🟦 **Node.js**  
+- Allows us to build scalable and efficient network applications, especially server-side applications.
 
-<i class="fab fa-cuttlefish"></i>  
-- **C/C++**: Provides low-level control and is crucial for performance-critical applications.
+🟥 **C/C++**  
+- Provides low-level control and is crucial for performance-critical applications.
 
 ### ⚙️ Frontend Development
 
-<i class="fab fa-react"></i>  
-- **React**: A popular JavaScript library for building user interfaces.
+⚛️ **React**  
+- A popular JavaScript library for building user interfaces.
 
-<i class="fab fa-vuejs"></i>  
-- **Vue.js**: Another JavaScript framework known for its simplicity and flexibility.
+🌐 **Vue.js**  
+- Another JavaScript framework known for its simplicity and flexibility.
 
-<i class="fab fa-html5"></i>  
-- **HTML & CSS**: Fundamental for web development, ensuring elegant and responsive designs.
+📄 **HTML & CSS**  
+- Fundamental for web development, ensuring elegant and responsive designs.
 
 ### ⚙️ Database Management
 
-<i class="fas fa-database"></i>  
-- **MongoDB**: Our choice for NoSQL database solutions, providing scalability and flexibility.
+🗄️ **MongoDB**  
+- Our choice for NoSQL database solutions, providing scalability and flexibility.
 
-<i class="fas fa-database"></i>  
-- **MySQL**: A reliable relational database system that powers many of our applications.
+💾 **MySQL**  
+- A reliable relational database system that powers many of our applications.
 
 ### ⚙️ Additional Tools and Frameworks
 
-<i class="fab fa-typescript"></i>  
-- **TypeScript**: Enhances JavaScript by adding static types, making our code more maintainable.
+🖋️ **TypeScript**  
+- Enhances JavaScript by adding static types, making our code more maintainable.
 
-<i class="fab fa-lua"></i>  
-- **Lua**: Lightweight and embedded in many applications, offering extensibility.
+🔲 **Lua**  
+- Lightweight and embedded in many applications, offering extensibility.
 
-<i class="fab fa-discord"></i>  
-- **Discord.js**: Helps us build feature-rich Discord bots.
+🎮 **Discord.js**  
+- Helps us build feature-rich Discord bots.
 
-<i class="fab fa-node-js"></i>  
-- **Express.js**: Simplifies building robust web applications with Node.js.
+🛠️ **Express.js**  
+- Simplifies building robust web applications with Node.js.
 
-<i class="fas fa-code"></i>  
-- **Mongoose**: An elegant MongoDB object modeling tool.
+🔗 **Mongoose**  
+- An elegant MongoDB object modeling tool.
 
 ### ⚙️ DevOps & Tools
 
-<i class="fab fa-github"></i>  
-- **GitHub**: A web platform for Git repository version control, facilitating developer collaboration.
+💻 **GitHub**  
+- A web platform for Git repository version control, facilitating developer collaboration.
 
-<i class="fab fa-linux"></i>  
-- **Linux**: An open-source operating system kernel used for various distributions.
+🐧 **Linux**  
+- An open-source operating system kernel used for various distributions.
 
-<i class="fab fa-windows"></i>  
-- **Windows**: An operating system by Microsoft available for both desktop and server applications.
+🖥️ **Windows**  
+- An operating system by Microsoft available for both desktop and server applications.
 
 ---
 
