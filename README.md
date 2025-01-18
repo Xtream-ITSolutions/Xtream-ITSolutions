@@ -6,6 +6,10 @@ Xtream-ITSolutions has been a hosting company since 2019. It all started in 2014
 
 ---
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+
+<div style="width: 48%;">
+
 ## 🔧 Programming Languages and Frameworks
 
 We utilize a variety of programming languages and frameworks to deliver high-quality solutions to our clients:
@@ -57,6 +61,10 @@ We utilize a variety of programming languages and frameworks to deliver high-qua
 🔗 **Mongoose**  
 - An elegant MongoDB object modeling tool.
 
+</div>
+
+<div style="width: 48%;">
+
 ### ⚙️ DevOps & Tools
 
 💻 **GitHub**  
@@ -67,6 +75,17 @@ We utilize a variety of programming languages and frameworks to deliver high-qua
 
 🖥️ **Windows**  
 - An operating system by Microsoft available for both desktop and server applications.
+
+### 📊 Other Technologies
+
+🌐 **Docker**  
+- Containerization platform for deploying applications in isolated environments.
+
+🔌 **Kubernetes**  
+- Orchestrates containers, ensuring scaling and automated deployment.
+
+📈 **Grafana**  
+- Data visualization and monitoring tool.
 
 ---
 
@@ -88,6 +107,10 @@ Feel free to reach out to us for inquiries, support, or collaboration opportunit
 - **GitHub:** [Xtream-ITSolutions GitHub](https://github.com/xtream-itsolutions)  
 - **Email:** [support@xtream-itsolutions.com](mailto:support@xtream-itsolutions.com)  
 - **Discord:** [Join our community on Discord](https://discord.gg/kRSyAybbby)
+
+</div>
+
+</div>
 
 ---
 
